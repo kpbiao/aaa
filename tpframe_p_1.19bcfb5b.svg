@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="13px" viewBox="0 0 27 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-25.286949%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1C5A8C" offset="0%"></stop>
+            <stop stop-color="#185487" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-15">
+            <rect id="Rectangle-4" fill="#1A5789" x="1.55718994" y="0" width="23.4104919" height="2"></rect>
+            <path d="M25.5202982,1 L25.5202982,1 C25.5665176,1.05693273 25.5614181,1.13978087 25.5085656,1.19061559 L14.6433246,11.6410389 C13.8690469,12.385756 12.6447434,12.385756 11.8704657,11.6410389 L1.03836412,1.22248982 L0.993238222,1.17914018 C0.954985586,1.14234797 0.953801678,1.0815121 0.990593889,1.04325947 C1.0091428,1.02397427 1.03489233,1.0132958 1.06164551,1.01379395 C1.06164551,1.01379395 1.06164551,1.01379395 1.06164551,1.01379395 C1.37589012,1.01964523 1.52847801,1.02052007 1.51940918,1.01641846 L25.5202982,1 Z" id="Page-1-Copy-5" fill="url(#linearGradient-1)"></path>
+            <path d="M25.2856965,1.39247875 C22.9178375,3.66993657 19.3660492,7.08612329 14.6303314,11.6410389 C13.8560536,12.385756 12.6317502,12.385756 11.8574724,11.6410389 C7.16903073,7.1315945 3.65269948,3.74951119 1.30847864,1.49478899" id="Path" stroke="#55C2FF"></path>
+            <polygon id="Rectangle-3-Copy" fill="#55C2FF" points="0.0433197021 1 1.55615234 1 2.55987549 2 1.10895716 2"></polygon>
+            <polygon id="Rectangle-3-Copy-2" fill="#55C2FF" transform="translate(25.184845, 1.500000) scale(-1, 1) translate(-25.184845, -1.500000) " points="23.9416809 1 25.4242859 1 26.428009 2 25.0073184 2"></polygon>
+        </g>
+    </g>
+</svg>

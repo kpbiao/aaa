@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="15px" viewBox="0 0 28 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1 Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M697.520298,509 L697.520298,509 C697.566518,509.056933 697.561418,509.139781 697.508566,509.190616 L686.643325,519.641039 C685.869047,520.385756 684.644743,520.385756 683.870466,519.641039 L673.038364,509.22249 L673.012993,509.198088 C672.996135,509.181873 672.995613,509.155062 673.011828,509.138203 C673.021669,509.127971 673.035982,509.12335 673.049949,509.125897 L674.001866,509.120999 L697.520298,509 Z" id="path-1"></path>
+        <filter x="-16.3%" y="-17.9%" width="132.6%" height="171.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.31505102   0 0 0 0 0.31505102   0 0 0 0 0.31505102  0 0 0 0.210597826 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="运力实时监控大屏" transform="translate(-671.000000, -509.000000)">
+            <g id="Page-1-Copy-5">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
